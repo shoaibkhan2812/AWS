@@ -36,7 +36,21 @@ Migration Steps Overview:
 
 **7.) Retire:** Remove the old application running on on-prem, so that they don't add unnecessary cost.
 
-***AWS Prescriptive Guidance:*** https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/introduction.html
+***AWS Prescriptive Guidance:*** 
+- https://aws.amazon.com/prescriptive-guidance/?
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/introduction.html
+
+-----
+<ins>**CCoE (Cloud Center of Excellence) - Forming the team.**</ins>
+* Form a small tiger team
+    - No Larger than two-pizza team
+    - Folks should be experiment driver. They should show bias for action rather than analysis paralysis.
+    - Able to learn from failure and iterate quickly
+    - Make regular progress & Deliver results.
+    - Customer obsessed (other projects are their customer)
+    - Able to evangelize, scale and influence learnings.
+----
+<ins>**Notable AWS Migration Tools.**</ins>
 
 
 
