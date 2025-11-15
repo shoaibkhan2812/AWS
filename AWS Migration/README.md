@@ -51,6 +51,10 @@ Migration Steps Overview:
     - Able to evangelize, scale and influence learnings.
 ----
 <ins>**Notable AWS Migration Tools.**</ins>
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/migration-services.html#:~:text=On%20this%20page,AWS%20DataSyncAWS%20Transfer%20Family
+
+----
+
 
 
 
