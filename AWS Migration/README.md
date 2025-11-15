@@ -1,6 +1,14 @@
 Migration Steps Overview:
 -------------------------
-Migration Strategies (7 R's):
+
+1.) Assess
+
+2.) Mobilize
+
+3.) Migrate & Modernize.
+
+----------------
+***Migration Strategies (7 R's):***
 
 1.) Relocating. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;5.) Repurchasing
 
@@ -17,7 +25,7 @@ Migration Strategies (7 R's):
 
 **3.) Replatforming:** Need to make few optimization with core architecture.
 
-**4.) Refactoring / Rearchitecting:** Refactor the app and introduce cloudnative services to the workflow. This includes containerizing the application.
+**4.) Refactoring / Rearchitecting:** ✅Refactor the app and introduce cloudnative services to the workflow. This includes containerizing the application.
     Mostly used when converting the monolithic apps to microservices.
 
 --- Remaining 3 strategies are not migration in real sense ---
@@ -29,4 +37,7 @@ Migration Strategies (7 R's):
 **7.) Retire:** Remove the old application running on on-prem, so that they don't add unnecessary cost.
 
 ***AWS Prescriptive Guidance:*** https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/introduction.html
+
+
+
 
